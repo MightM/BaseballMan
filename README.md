@@ -11,8 +11,5 @@ first time
 第六次修改
 
 第五次修改
-<<<<<<< HEAD
 
 在修改一次
-=======
->>>>>>> origin/master
